@@ -26,7 +26,7 @@
   
         <!-- Github -->
         <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
-          >Github</a>
+          >Github </a>
       </section>
       <!-- Section: Social media -->
   
