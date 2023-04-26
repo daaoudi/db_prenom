@@ -6,33 +6,27 @@
       <section class="mb-4">
         <!-- Facebook -->
         <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
-          ><i class="fab fa-facebook-f"></i
-        ></a>
+          >Facebook</a>
   
         <!-- Twitter -->
         <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
-          ><i class="fab fa-twitter"></i
-        ></a>
+          >Twitter</a>
   
         <!-- Google -->
         <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
-          ><i class="fab fa-google"></i
-        ></a>
+          >Gmail</a>
   
         <!-- Instagram -->
         <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
-          ><i class="fab fa-instagram"></i
-        ></a>
+          >Instagram</a>
   
         <!-- Linkedin -->
         <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
-          ><i class="fab fa-linkedin-in"></i
-        ></a>
+          >Linkedin</a>
   
         <!-- Github -->
         <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
-          ><i class="fab fa-github"></i
-        ></a>
+          >Github</a>
       </section>
       <!-- Section: Social media -->
   
